@@ -1,0 +1,730 @@
+[
+  {
+    "doheId": 1,
+    "hindi": "एक-रदन विद्या-सदन, उमा-नँदन गुन-कोष। नाग-बदन मोदक-अदन, बिघन-कदन हर दोष॥",
+    "meaning": "ज्ञान का भंडार, पार्वती का पुत्र, गुणों की खान। हाथी के मुख वाला, मोदक प्रिय, बाधाओं को दूर करने वाला दोष हरने वाला।",
+    "gujarati": "જ્ઞાનનો ભંડાર, પાર્વતીનો પુત્ર, ગુણોનો ખજાનો. હાથીના મુખવાળો, મોઢકપ્રિય, અવરોધોને દૂર કરનાર અને દોષોનો હરણ કરનાર.",
+    "english": "A treasure trove of knowledge, Parvati's son, a repository of virtues. With the face of an elephant, fond of modaks, dispelling obstacles and absolving faults."
+  },
+  {
+    "doheId": 2,
+    "hindi": "रति-मदहर-वृषभानुजा, मूठि गुलालहि संग। भेंट कियो ब्रजराज को, चंचल चित्त मतंग॥",
+    "meaning": "रति और मदन को पराजित करने वाली, वृषभानु की बेटी, गुलाल की मूठ के साथ। उसने ब्रजराज से भेंट की, चंचल मन वाला मतंग।",
+    "gujarati": "રતિ અને કામદેવને હરાવનારી, વૃષભાનુની દીકરી, ગુલાલની મૂઠ સાથે. તેણે બ્રજરાજ સાથે ભેટ કરી, ચંચલ મનનો મત્ત હાથી.",
+    "english": "Conqueror of Cupid and Madan's sister, daughter of Vrishabhanu, playing with gulal in hand. She met the king of Braj, a playful elephant with a restless mind."
+  },
+  {
+    "doheId": 3,
+    "hindi": "सरद-रैनि स्यामा सुभग, सोवति माधौ-संग। उर उछाह लिपटति सुघर, राजत अंग अनंग॥",
+    "meaning": "शरद ऋतु की रात में सुंदर श्याम माधव के संग सो रही हैं। उनके हृदय में उल्लास भरा है, सुंदर अंगों में अनंग (कामदेव) शोभायमान है।",
+    "gujarati": "શરદ ઋતુની રાતે સુંદર શ્યામ માધવના સંગે સુઇ રહી છે. તેમના હૃદયમાં ઉત્સાહ છે, સુંદર અંગોમાં અનંગ (કામદેવ) શોભાયમાન છે.",
+    "english": "In the autumn night, beautiful Shyama is sleeping with Madhava. Her heart is filled with joy, and the graceful form of Ananga (Kamadeva) shines in her lovely limbs."
+  },
+  {
+    "doheId": 4,
+    "hindi": "प्रियतम को पोख्यो चहैं, प्रेम-पियासे नैन। आँसु निगोरे चहत हैं, औसर पै दुख दैन॥",
+    "meaning": "प्रियतम को देखना चाहती हैं, प्रेम-प्यासे नैन। आँसू छुपाना चाहती हैं, लेकिन अवसर पर दुख दे जाते हैं।",
+    "gujarati": "પ્રિયતમને જોવા માંગે છે, પ્રેમથી પ્યાસેલ આંખો. આંસુ છુપાવવા માંગે છે, પણ અવસરે દુઃખ આપતા રહે છે.",
+    "english": "Desiring to see her beloved, her eyes thirst for love. She wishes to hide her tears, but they cause sorrow when circumstances dictate."
+  },
+  {
+    "doheId": 5,
+    "hindi": "फूलत कहा सरोज! तू, निज छबि अतुलित जान। मम प्यारी मुख-कंज लखि, मिटि जैहै अभिमान॥",
+    "meaning": "हे कमल, तू अपनी शोभा को अतुलित मानता है। परंतु मेरे प्रिय के मुख-कमल को देख तेरे अभिमान का नाश हो जाएगा।",
+    "gujarati": "હે કમલ, તું તારી સુંદરતાને અતુલ્ય માને છે. પરંતુ મારા પ્રિયના મુખ-કમલને જોતા તારા અહંકારનો નાશ થઈ જશે.",
+    "english": "Oh lotus, you consider your beauty incomparable. But your pride will vanish when you see the lotus-like face of my beloved."
+  },
+  {
+    "doheId": 6,
+    "hindi": "बल बाढ़्यो रितुपति-पवन, पुहुप कीन बलवीर। मदन-उरग-उर-बिच डसत, लाँघि उरग तिय-धीर॥",
+    "meaning": "ऋतुपति की हवा से बल बढ़ा, फूलों ने बलवीर बनाए। मदन और उरग के हृदय में डंसते हुए, तिय-धीर का उरग लांघा।",
+    "gujarati": "ઋતુના પવનથી બળ વધ્યો, ફૂલોએ બલવીરો બનાવ્યા. કામદેવ અને સર્પના હૃદયમાં ડંસતાં, તીયધીરના સર્પને લાંઘ્યું.",
+    "english": "The wind of the season increased strength, flowers made valiant warriors. Biting the hearts of Madan and the serpent, the courageous woman crossed over the serpent."
+  },
+  {
+    "doheId": 7,
+    "hindi": "आयो ना रितुराज पै, है यह दल जमराज। सुमन सस्त्र सों मारिहै, बिना मित्र ब्रजराज॥",
+    "meaning": "ऋतुराज नहीं आया है, यह यमराज की सेना है। सुमन शस्त्रों से मारेगा, बिना मित्र ब्रजराज।",
+    "gujarati": "ઋતુરાજ આવ્યો નથી, આ યમરાજની સેના છે. સુમન શસ્ત્રોથી મારશે, વિના મિત્ર બ્રજરાજ.",
+    "english": "The king of seasons has not come; this is the army of Yamaraja. The king of Braj will strike with flower weapons without a friend."
+  },
+  {
+    "doheId": 8,
+    "hindi": "जिन कजरारे नैन ने, कजरारो मुख कीन। तिनपै बेगि सिधाइये, मोहन! परम प्रवीन॥",
+    "meaning": "जिन कजरारे नयनों ने कजरारा मुख बनाया। उन पर शीघ्रता से ध्यान दें, हे मोहन! परम प्रवीन।",
+    "gujarati": "જે કજરારા નયનોએ કજરારો મુખ બનાવ્યો છે. તે પર ઝડપથી ધ્યાન આપો, હે મોહન! પરમ પ્રવીણ.",
+    "english": "The dark eyes that created a dark face. Pay attention to them quickly, oh Mohan! The supremely wise one."
+  },
+  {
+    "doheId": 9,
+    "hindi": "जो कछु लघुता करत हौ, सो असीम है ईस! फिरि यह मो पायन परन, अति अनुचित ब्रजधीस॥",
+    "meaning": "जो कुछ भी छोटा करता है, वह असीम है, हे ईश्वर! फिर यह मेरे पाँवों पर गिरना, अति अनुचित है ब्रजधीश।",
+    "gujarati": "જે કંઈ નાનું કરે છે, તે અસીમ છે, હે ઈશ્વર! ફરી આ મારા પગ પર પડવું, અતિ અનુચિત છે બ્રજધીસ.",
+    "english": "Whatever belittles is infinite, oh Lord! Thus, it is highly inappropriate for the king of Braj to fall at my feet."
+  },
+  {
+    "doheId": 10,
+    "hindi": "सुबरन! जो सुबरन चहत, सम प्यारी के अंग। तपहिं तपे बिन पाइहौ, किमि वह सुंदर रंग॥",
+    "meaning": "हे सुबरन! जो सुबरन चाहें, वे प्रिय के अंग समान हैं। तपस्या किए बिना उसे वह सुंदर रंग कैसे मिलेगा?",
+    "gujarati": "હે સુબરણ! જે સુબરણ ઈચ્છે છે, તે પ્રિયના અંગ સમાન છે. તપસ્યા કર્યા વિના તે સુંદર રંગ કેમ મળશે?",
+    "english": "Oh Subaran! Whoever desires Subaran, they are like the beloved's form. Without penance, how will they attain that beautiful color?"
+  },
+  {
+    "doheId": 11,
+    "hindi": "जे तुमको दोषी कहत, ते नहिं मोहिं सुहात। तुम इन राधा-नयन मैं, स्याम सदा अवदात॥",
+    "meaning": "जो तुम्हें दोषी कहते हैं, वे मुझे अच्छे नहीं लगते। राधा की इन आँखों में तुम सदा श्याम और पवित्र हो।",
+    "english": "Those who call you guilty do not please me. In these Radha's eyes, you are always pure and radiant.",
+    "gujarati": "જે તમને દોષી કહે છે, તેઓ મને ગમતા નથી. રાધાના આ નેત્રોમાં તમે હંમેશાં શુદ્ધ અને ઉજળા છો."
+  },
+  {
+    "doheId": 12,
+    "hindi": "मंद-हँसनि चितवनि कुटिल, रसना-नूपुर-नाद। हर्यो चित्त यों लाल को, कछु ना लगत सवाद॥",
+    "meaning": "मंद मुस्कान और कुटिल दृष्टि, तथा नूपुर की मधुर ध्वनि से उसने अपने प्रिय का मन मोह लिया है, जिससे बाकी सब कुछ बेस्वाद लग रहा है।",
+    "english": "With a gentle smile and mischievous glance, and the sweet sound of her anklet bells, she has captivated the mind of the beloved, making everything else tasteless.",
+    "gujarati": "હળવી મિસ્કાન અને કટિલ નજર, અને પાયલના મીઠા નાદથી તેણે પોતાના પ્રિયનો મન મોહી લીધો છે, જેનાથી બાકી બધું નિરસ લાગે છે."
+  },
+  {
+    "doheId": 13,
+    "hindi": "घुमड़ी नभ उमड़ी घटा, चपला-चमक अतंत। बारि-बूँद बरसत घनी, बिरहिन-बिथा अनंत॥",
+    "meaning": "आकाश में गहरे बादल छा गए हैं, बिजली लगातार चमक रही है। घनी बारिश की बूंदें बरस रही हैं, और विरहिणी की पीड़ा असीमित हो गई है।",
+    "english": "Dark clouds gather in the sky, lightning flashes endlessly. Heavy raindrops fall, reflecting the endless suffering of the separated lover.",
+    "gujarati": "આકાશમાં ઘેરા વાદળો છવાઈ ગયા છે, વીજળી સતત ચમકે છે. ઘોર વરસાદની બૂંડો વરસે છે, અને વિરુહિનીની પીડા અસીમિત થઈ ગઈ છે."
+  },
+  {
+    "doheId": 14,
+    "hindi": "सुबरन तकि सुबरन लखै, पंकज लखि निज नैन। पेखि कुंभ निरखति कुचनि, पिक-धुनि सुनि मुख-बैन॥",
+    "meaning": "सुवर्ण को देख कर सुवर्ण पहचानता है, कमल को देखकर अपने नयन पहचानते हैं। कुंभ को देखकर स्तन पहचानते हैं और कोयल की ध्वनि सुनकर मुख बोलते हैं।",
+    "english": "Gold recognizes gold, eyes recognize the lotus. Breasts are compared to water pitchers, and the mouth speaks in response to the cuckoo's sound.",
+    "gujarati": "સુવર્ણને જોઈને સુવર્ણ ઓળખે છે, કમલને જોઈને આંખો ઓળખે છે. કુંભને જોઈને સ્તન ઓળખે છે અને કોકિલાની ધ્વનિ સાંભળીને મોં બોલે છે."
+  },
+  {
+    "doheId": 15,
+    "hindi": "गति गयंद केहरी कटि, मंद हँसनि मुख इंदु। \n\nनयन उभय सोभित भये, द्वै दल मनु अरविंदु",
+    "meaning": "हाथी की चाल, शेर की कमर, मन्द मुस्कान और चन्द्रमा के समान मुख। दोनों आँखें सुंदर हैं, जैसे मन के कमल की दो पंखुड़ियाँ।",
+    "english": "The gait of an elephant, the waist of a lion, a gentle smile, and a moon-like face. Both eyes are beautiful, like the two petals of the lotus of the mind.",
+    "gujarati": "હાથીની ચાલ, સિંહની કમર, નરમ મિસ્કાન અને ચંદ્રમાની જેમ મોં. બંને આંખો સુંદર છે, જેમ મનના કમળની બે પાંખડીઓ."
+  },
+  {
+    "doheId": 16,
+    "hindi": "पद पखारि मृदु बैन तैं, आदर कीन्हों पूर। \n\nज्यों पिय आवत तिय निकट, त्यों हँसि भाजति दूर॥",
+    "meaning": "मृदु वाणी से पांव पखार कर, पूर्ण आदर किया। जैसे ही प्रिय पास आता है, वह हंसकर दूर भाग जाती है।",
+    "english": "With soft words, she washed his feet and gave him complete respect. As soon as the beloved comes near, she runs away laughing.",
+    "gujarati": "મૃદુ વાણીથી પગ પખારીને પૂર્ણ આદર આપ્યો. પ્રિય આવે છે તે જ હાસ્ય કરીને દોડી જાય છે."
+  },
+  {
+    "doheId": 17,
+    "hindi": "श्रवन परत जाकी ध्वनी, भूलत पसु तन-भान। \n\nजो सुनि मूढ़न रीझिहै, चूक न बीन सुजान॥",
+    "meaning": "जिसकी ध्वनि सुनकर पशु अपने शरीर का भान भूल जाते हैं। जो सुनकर मूर्ख रीझ जाते हैं, लेकिन ज्ञानी कभी नहीं चूकते।",
+    "english": "Hearing whose sound, animals forget their bodies. Fools are enchanted by it, but the wise never miss.",
+    "gujarati": "જેનાની ધ્વનિ સાંભળી પ્રાણીઓ તેમના શરીરને ભૂલી જાય છે. જે સાંભળી મૂર્ખ મોહિત થાય છે, પણ જ્ઞાની ક્યારેય ચૂકતા નથી."
+  },
+  {
+    "doheId": 18,
+    "hindi": "गज-मुक्ता-फल! करु न मद, निज अमोलता जान। \n\nतुव कारन पितु-द्विरद के, गये बिपिन बिच प्रान॥",
+    "meaning": "गज-मुक्ताफल! घमंड मत करो, अपनी अमूल्यता को जानो। तुम्हारे कारण हाथी के प्राण वन में चले गए।",
+    "english": "Elephant pearl! Do not be proud, know your pricelessness. Because of you, the elephant's life was lost in the forest.",
+    "gujarati": "હાથી મોતી! ગર્વ ન કર, પોતાની અમૂલ્યતાને જાણ. તમારું કારણ હાથીનું જીવન વનમાં ખોવાઈ ગયું."
+  },
+  {
+    "doheId": 19,
+    "hindi": "सखी! गई हौं सदन मैं, भई न पिय सों भेंट। \n\nदीपक की दीपति लगी, मनौ घाम दिन जेठ॥",
+    "meaning": "सखी! मैं घर गई, लेकिन प्रिय से भेंट नहीं हुई। दीपक की रोशनी मुझे जेठ के महीने की गर्मी की तरह लगती है।",
+    "english": "Friend! I went home, but did not meet the beloved. The lamp's light feels like the scorching heat of the summer month.",
+    "gujarati": "મિત્ર! હું ઘરે ગઈ, પરંતુ પ્રિયને મળવામાં આવ્યું ન હતું. દીવાના પ્રકાશને મને જુન મહિના જેવી ગરમી લાગે છે."
+  },
+  {
+    "doheId": 20,
+    "hindi": "सोंच न करु एला-लता! ऊँट-अनादर मान। \n\nगाहक तव सुभ गुनत के, अगनित गुनी जहान॥",
+    "meaning": "हे लता! चिंता मत करो, ऊंट की उपेक्षा को मानो। तुम्हारे गुणों के गाहक अनगिनत गुणी लोग हैं।",
+    "english": "O vine! Do not worry, accept the camel's disregard. Countless wise people are admirers of your virtues.",
+    "gujarati": "હે લતા! ચિંતા ન કરશો, ઊંટના અપમાનને માનો. તમારી ગુણવત્તાના ગ્રાહકો ગણતરીના ગુણી છે."
+  },
+  {
+    "doheId": 21,
+    "hindi": "मेघराज! तब लौं सदा, बरस गरजि करि रोस। \n\nद्रव्यराज! जौलौं नहीं, जो बरसत निसि-द्योस॥",
+    "meaning": "हे मेघराज! सदा बरसते और गरजते रहो। धनराज! जो दिन-रात बरसते नहीं, वे कभी नहीं होते।",
+    "english": "O king of clouds! Always rain and roar. King of wealth! Those who do not rain day and night, never exist.",
+    "gujarati": "હે મેઘરાજ! હંમેશા વરસો અને ગર્જા. ધનરાજ! જે દિવસ-રાત વરસતા નથી, તેઓ ક્યારેય હોતા નથી."
+  },
+  {
+    "doheId": 22,
+    "hindi": "‘मोहन’ के मुख लागि वह, बिसरि गई तुहि बात। \n\nयातैं तू निरदइ भई, करन लगी यों घात॥",
+    "meaning": "‘मोहन’ के मुख पर वह बात रखते ही, तुम सब कुछ भूल गई। इसलिए तू निर्दयी हो गई और ऐसा व्यवहार करने लगी।",
+    "english": "As soon as ‘Mohan’ spoke, you forgot everything. Therefore, you became cruel and started behaving like this.",
+    "gujarati": "‘મોહન’ બોલ્યા જ, તું બધું ભૂલી ગઈ. તેથી તમે ક્રૂર બની ગયા અને આવું વર્તન શરૂ કર્યું."
+  },
+  {
+    "doheId": 23,
+    "hindi": "कमल विमल तैं पूजिबो, सिव को अधिक सोहात। \n\nजैंहौं तिनको ताल पै, लेन अकेलो प्रात॥",
+    "meaning": "कमल के समान पवित्र पूजा करो, जो शिव को अधिक सुहाते हैं। मैं सुबह-सुबह उनके ताल पर अकेला जाऊंगा।",
+    "english": "Worship like a pure lotus, which pleases Shiva the most. I will go alone to their pond early in the morning.",
+    "gujarati": "કમળ જેવું શુદ્ધ પૂજન કરો, જે શિવને વધુ ગમે છે. હું વહેલી સવારે તેમના તળાવમાં એકલો જઇશ."
+  },
+  {
+    "doheId": 24,
+    "hindi": "मो तैं कछु अपराध नहिं, बन्यो भूलि सुख-दान। \n\nबंक भौंह तुव लसति मनु, पूरन खिंची कमान॥",
+    "meaning": "मेरे से कोई अपराध नहीं हुआ है, मैंने अनजाने में सुख दिया। तुम्हारी बंकी भौंहें मन में ऐसे लगती हैं जैसे पूर्ण खींची कमान।",
+    "english": "I have committed no offense, I gave happiness unknowingly. Your curved eyebrows appear in the mind like a fully drawn bow.",
+    "gujarati": "મારી કોઈ ભૂલ નથી, મેં અજાણતા સુખ આપ્યું. તમારી વંકી ભૌહો મનમાં એક સંપૂર્ણ ખેંચેલી કમાનની જેમ લાગે છે."
+  },
+  {
+    "doheId": 25,
+    "hindi": "मैं ना सखी निहारिहौं, इन नैनन ब्रज-चंद। \n\nमम हिय अति डरपत सदा, फँसि जैहौं छलछंद॥",
+    "meaning": "मैं इन आँखों से ब्रज-चंद्र को नहीं देखूंगी। मेरा हृदय सदा डरता रहता है कि कहीं मैं छल-कपट में फँस न जाऊं।",
+    "english": "I will not look at Braj-Chandra with these eyes. My heart always fears that I might get trapped in deceit.",
+    "gujarati": "હું આ આંખો સાથે બ્રજ-ચંદ્રને નહીં જોઈ શકું. મારું હૃદય હંમેશા ડરે છે કે હું છેતરપિંડીમાં ફસાઈ જાઉં."
+  },
+  {
+    "doheId": 26,
+    "hindi": "जब तैं मोहन-नैन तैं, जुरे निगोड़े नैन। \n\nदरस बिना धीर न धरत, निसि-दिन रहत अचैन॥",
+    "meaning": "जबसे मोहन की आँखों से, इन बेकार आँखों का मिलन हुआ है। दर्शन बिना धीर नहीं धरता, दिन-रात बेचैन रहता हूँ।",
+    "english": "Since the eyes of Mohan met these worthless eyes, I cannot find peace without his sight, and remain restless day and night.",
+    "gujarati": "મોહનની આંખો આ નકામા આંખો સાથે મળ્યા ત્યારથી, હું તેના દર્શન વિના શાંતિ મેળવી શકતો નથી અને રાત-દિવસ બેચેન રહેતો છું."
+  },
+  {
+    "doheId": 27,
+    "hindi": "मलयाचल-चन्दन सदा, पन्नग जो लपटाय। \n\nसो किमि जावै नीम-ढिंग, अचरज मोंहि लखाय॥",
+    "meaning": "मलयाचल के चन्दन से सदा पन्नग लिपटे रहते हैं। वह नीम के पास कैसे जा सकता है, मुझे यह अचरज में डालता है।",
+    "english": "The snakes are always entwined with the sandalwood of Malaya mountain. How can it go near the neem tree? This amazes me.",
+    "gujarati": "મલયાચલના ચંદન સાથે હંમેશા પન્નગે લપેટાય છે. તે નીમના ઝાડની નજીક કેવી રીતે જઈ શકે છે? આ મને આશ્ચર્યમાં નાખે છે."
+  },
+  {
+    "doheId": 28,
+    "hindi": "करत निछावरि ए सखी! लागत लाज अपार। \n\nप्रान निछावरि करि चुकी, अब सब और असार॥",
+    "meaning": "ए सखी! निछावर करते हुए मुझे बहुत लाज लगती है। प्राण पहले ही निछावर कर चुकी हूँ, अब सब कुछ बेकार लगता है।",
+    "english": "O friend! I feel immense shame while offering. I have already sacrificed my life, now everything else seems worthless.",
+    "gujarati": "હે મિત્ર! મને બલિદાન આપતાં અત્યંત શરમ આવે છે. હું પહેલેથી જ મારા જીવનનો બલિદાન આપી ચૂક્યો છું, હવે બાકી બધું નકામું લાગે છે."
+  },
+  {
+    "doheId": 29,
+    "hindi": "कंबु कंठ खंजन नयन, बार भौंर तन गोर। \n\nअधर बिंब मुख चंद-सम, नागिनि अलक-मरोर॥",
+    "meaning": "कंबु के समान कंठ, खंजन के समान नयन, गोरे तन पर बार-बार भौंरे के समान बाल। अधर बिंब मुख चंद्र के समान, नागिन के समान घुंघराले बाल।",
+    "english": "A conch-like neck, wagtail-like eyes, hair like bees on fair skin. Lips like bimba fruit, a face like the moon, curly hair like a serpent.",
+    "gujarati": "શંખ જેવા કંઠ, ખંજનની જેમ આંખો, ગોરા ચામડાએ પર મકખીઓ જેવા વાળ. બિંબ ફળ જેવા હોઠ, ચાંદના જેવા ચહેરા, સાપ જેવા ઘૂંઘરાળા વાળ."
+  },
+  {
+    "doheId": 30,
+    "hindi": "कमल-बदनि! किमि चलि अभय, निरखत बाग बहार। \n\nमधुकर तव मुख झूमि है, पंकज-भ्रम चित धार॥",
+    "meaning": "कमल जैसे मुख वाली! बाग की बहार देखकर निडर कैसे चल सकती हो। मधुकर तुम्हारे मुख को देखकर झूमता है, और मन में भ्रम पैदा होता है कि वह कमल है।",
+    "english": "O lotus-faced one! How can you walk fearlessly seeing the garden in bloom? The bee sways upon seeing your face, mistaking it for a lotus.",
+    "gujarati": "હે કમળમુખી! બાગને ચમકતી જોઈને તમે નિર્ભય રીતે કેવી રીતે ચાલી શકો છો? મધુકર તમારો ચહેરો જોઈને ઝૂમે છે, અને મનમાં ભ્રમ થાય છે કે તે કમળ છે."
+  },
+  {
+    "doheId": 31,
+    "hindi": "नलिनी को रस चाखि कै, विक्यो मधुप गुन-गेह। \n\nबास मालती ढिंग जदपि, तदपि न तजत सनेह॥",
+    "meaning": "नलिनी का रस चखकर, मधुकर गुण-गृह (मधुमक्खी का छत्ता) को बेच देता है। मालती के पास रहने के बावजूद, वह स्नेह नहीं छोड़ता।",
+    "english": "After tasting the nectar of the lotus, the bee sells the hive. Despite staying close to Malati, it does not abandon its affection.",
+    "gujarati": "કમળના રસનું સ્વાદ લઇને, મધુમાખી તેનો છત્તો વેચી દે છે. માલતીની નજીક હોવા છતાં, તે તેનું પ્રેમ છોડી નથી."
+  },
+  {
+    "doheId": 32,
+    "hindi": "मधुपहिं सोभा तुच्छ निज, कुटज! दिखावत काहि? \n\nसुमन-सिरोमनि कमल जिहि, निस-दिन राखत चाहि॥",
+    "meaning": "हे कुटज! मधुप (भौंरा) के सामने अपनी तुच्छ शोभा क्यों दिखाते हो? वह तो सुमन-सिरोमणि कमल की चाहत रखता है।",
+    "english": "O Kutaj flower! Why show your insignificant beauty to the bee? It constantly desires the supreme lotus.",
+    "gujarati": "હે કુટજ ફૂલ! તું મધુમાખી પાસે તારી તુચ્છ સુંદરતા કેમ બતાવે છે? તે હંમેશા ઉત્તમ કમળની ઈચ્છા રાખે છે."
+  },
+  {
+    "doheId": 33,
+    "hindi": "तव मूरति की लटक नित, अटकि रही इन नैन। \n\nतिहि ढूँढन भटकत फिरौं, पटकि सीस दिन-रैन॥",
+    "meaning": "तुम्हारी मूर्ति की लटक इन आँखों में हमेशा अटकी रहती है। उसे ढूंढते हुए, मैं दिन-रात सिर पटकते हुए भटकता रहता हूँ।",
+    "english": "The charm of your form always lingers in these eyes. Searching for it, I wander day and night, striking my head.",
+    "gujarati": "તમારી મૂર્તિની આકર્ષણ હંમેશા આ આંખોમાં અટકી રહે છે. તેને શોધતા હું દિવસ-રાત માથું ઠોકીને ભટકતો રહું છું."
+  },
+  {
+    "doheId": 34,
+    "hindi": "पिय-तन-दुति लखि तिय-बदन, बिकसित बिच पट स्याम। \n\nजलद-मध्य चपला मनो, चमकत है अभिराम॥",
+    "meaning": "प्रिय के शरीर की दुति देखकर, तिय के चेहरे की शोभा निखर जाती है। जैसे बादल के बीच बिजली चमकती है।",
+    "english": "Seeing the radiance of the beloved's body, the beauty of the woman's face blooms. It shines like lightning among clouds.",
+    "gujarati": "પ્રિયના શરીરની કાંતિ જોઈને, સ્ત્રીના ચહેરાની સુંદરતા ખીલી ઉઠે છે. જેમ વાદળોમાં વીજળી ઝળહળી રહે છે."
+  },
+  {
+    "doheId": 35,
+    "hindi": "पंकज क्यों मकरंद! तू, देत न मधुपन आज। \n\nहिम तैं तू जरिहै जबै, ह्वै है सब बेकाज॥",
+    "meaning": "हे पंकज! आज तू मधुप को मकरंद क्यों नहीं दे रहा? जब तू हिम से जलेगा, तब सब बेकार हो जाएगा।",
+    "english": "O lotus! Why aren't you giving nectar to the bee today? When you burn from the frost, everything will be useless.",
+    "gujarati": "હે પંકજ! તું આજે મધુમાખી ને મકરંદ કેમ નથી આપી રહ્યો? જ્યારે તું હિમ થી બળી જશે, ત્યારે બધું વ્યર્થ થઈ જશે."
+  },
+  {
+    "doheId": 36,
+    "hindi": "राधे कलिका कमल की, अलि है रसिक मुरार। \n\nमधु-सुबास-बिन बस भये, अचरज होत अपार॥",
+    "meaning": "राधा कमल की कलिका है, मुरारी रसिक भौंरा है। बिना मधु और सुगंध के वे बस गए हैं, यह अचरज की बात है।",
+    "english": "Radha is the bud of the lotus, and Murari is the passionate bee. They have settled without nectar and fragrance, which is astonishing.",
+    "gujarati": "રાધા કમળની કળી છે, મુરારી રસિક ભમરો છે. તે મધ અને સુગંધ વગર વસ્યા છે, તે આશ્ચર્યજનક છે."
+  },
+  {
+    "doheId": 37,
+    "hindi": "चढ़ि सु प्रीति-नौका कठिन, छेह दई कुलकान। \n\nकोप-उदधि बोरत लगी, बार न मोहिं अजान॥",
+    "meaning": "प्रेम की कठिन नाव पर चढ़कर, कुलकान ने ताना मारा। वह क्रोध के समुद्र में डूबने लगी, लेकिन मुझे कोई अज्ञान नहीं है।",
+    "english": "Climbing the difficult boat of love, Kulkan mocked. She began to sink in the ocean of anger, but I am not ignorant.",
+    "gujarati": "પ્રેમની કઠણ નાવમાં ચડીને, કુલકાન મજાક કરે છે. તે રોષના સમુદ્રમાં ડૂબવા લાગે છે, પરંતુ મને કોઈ અજ્ઞાન નથી."
+  },
+  {
+    "doheId": 38,
+    "hindi": "असित बरन अति निज निरखि, सोंचन करु घनश्याम! \n\nसरस-हृदयता करत तुव, स्यामलता छबि-धाम॥",
+    "meaning": "घनश्याम! अपना असित (काला) रंग देखकर, सोचो। तुम्हारी सरस हृदयता तुम्हारी श्यामलता का छवि-धाम है।",
+    "english": "O Ghanshyam! Look at your dark color and think. Your tender-heartedness is the abode of your dark beauty.",
+    "gujarati": "હે ઘનશ્યામ! તમારો કાળો રંગ જોઈને, વિચારો. તમારી સૌમ્ય હૃદયતા તમારી કાળી સુંદરતાનું ઘર છે."
+  },
+  {
+    "doheId": 39,
+    "hindi": "सुवा! सुपारी फोरिबो, यह तुव वृथा प्रयास। \n\nसार हाथ ऐहै नहीं, ह्वै है अंत उदास॥",
+    "meaning": "सुवा! सुपारी फोड़ने का यह तेरा व्यर्थ प्रयास है। तुझे इसमें सार हाथ नहीं आएगा, अंत में उदासी ही होगी।",
+    "english": "Parrot! This effort of yours to crack the betel nut is futile. You won't get any essence from it, and will end up sad.",
+    "gujarati": "હે સુવા! સુપારી તોડવાનો આ તારો વ્યર્થ પ્રયત્ન છે. તને તેમાં કોઈ સાર મળશે નહીં, અંતે તું ઉદાસ થઈ જશે."
+  },
+  {
+    "doheId": 40,
+    "hindi": "नहिं विषाद की बात जो, नलिनी भई उदास। \n\nकुमुदिनि-पति! तुहिं लखि जबै, कुमुदिनि हिये हुलास॥",
+    "meaning": "यह विषाद की बात नहीं है कि नलिनी उदास हो गई है। हे कुमुदिनी-पति! जब तुझे देखती है, कुमुदिनी के हृदय में हुलास होता है।",
+    "english": "It's not a matter of sorrow that the lotus has become sad. O moon, when she sees you, the lotus's heart rejoices.",
+    "gujarati": "આ શોકની વાત નથી કે નલિની ઉદાસ થઈ ગઈ છે. હે કુમુદિની-પતિ! જ્યારે તે તમને જુએ છે, ત્યારે કમળના હૃદયમાં ખુશી થાય છે."
+  },
+  {
+    "doheId": 41,
+    "hindi": "हास-युक्त तरुनी-बदन, अधर रदन-छबि-लीन। \n\nमनौं अरुन द्वै मनिन महँ, जलज-लरी जरि दीन॥",
+    "meaning": "हास्य से युक्त तरुणी का मुख, अधर और दंत की छवि से युक्त है। मानो दो अरुण मणियों में जलज लरी (कमल की कली) जलकर दी गई हो।",
+    "english": "The young woman's face adorned with laughter, lips, and teeth. It's as if two red gems have burned a lotus bud.",
+    "gujarati": "હાસ્યથી શોભિત યુવતીનું મુખ, હોઠ અને દાંતની છબી સાથે સજ્જ છે. એવું લાગે છે કે બે લાલ રત્નોએ કમળની કળી બાળી દીધી હોય."
+  },
+  {
+    "doheId": 42,
+    "hindi": "बैठी सखिन समूह मैं, मन सोंचत मुख मौन। \n\nकौन खेल मैं लगि रहे, आये नाह अजौं न॥",
+    "meaning": "सखियों के समूह में बैठी, मन में सोच रही है और मुख मौन है। कौन से खेल में लगे रहे, नाथ अब तक क्यों नहीं आए?",
+    "english": "Sitting among friends, she thinks in her mind and her face is silent. What game are they engaged in, why hasn't the lord come yet?",
+    "gujarati": "સખીઓના સમૂહમાં બેસીને, તે મનમાં વિચારે છે અને તેનો ચહેરો મૌન છે. ક્યા રમતમાં મગ્ન છે, નાથ હજી સુધી કેમ આવ્યા નથી?"
+  },
+  {
+    "doheId": 43,
+    "sanskrit": "अहो स्याम घन! पातकी, भयो घात की रास। \n\nबरसत बूँद न स्वाति की, दूरि न चातकी-प्यास॥",
+    "meaning": "हे श्याम घन! पातकी की घात की भरमार हो गई है। स्वाति की बूंद नहीं बरस रही है, चातक की प्यास दूर नहीं हो रही है।",
+    "english": "O dark cloud! The sinner's attack has become abundant. The Swati drop is not raining, and the Chatak's thirst is not being quenched.",
+    "gujarati": "હે શ્યામ ઘન! પાપીના હુમલાનો વણગો થવા માંડ્યો છે. સ્વાતિની બુંદ વરસી રહી નથી, અને ચાતકની તરસ બુજાવી રહી નથી."
+  },
+  {
+    "doheId": 44,
+    "hindi": "नित नव मधु चाखत मधुप, तऊँ न पावत तोष। \n\nमान भूलि बंधन सहत, पान-प्रीति के दोष॥",
+    "meaning": "भौंरा रोज नए मधु का स्वाद चखता है, फिर भी संतोष नहीं पाता। सम्मान भूलकर बंधन सहता है, पान और प्रीति के दोष के कारण।",
+    "english": "The bee tastes new nectar daily, yet does not find satisfaction. Forgetting honor, it endures bondage due to its love for drinking.",
+    "gujarati": "ભમરો રોજ નવા મધનો સ્વાદ ચાખે છે, તેમ છતાં સંતોષ પામતો નથી. સન્માન ભૂલીને તે પાન અને પ્રેમના દોષના કારણે બંધન સહન કરે છે."
+  },
+  {
+    "doheId": 45,
+    "hindi": "नागफनी! तू सूल-पय, राखत विषधर पास। \n\nतापै फल लघु कंटकित, कौन करै तव आस॥",
+    "meaning": "हे नागफनी! तू काँटेदार दूध है, विषधर को पास रखता है। तेरे फल छोटे और काँटेदार हैं, कौन तुझसे आशा करेगा?",
+    "english": "O cactus! You are thorny milk, keeping the venomous snake close. Your fruit is small and thorny, who will hope from you?",
+    "gujarati": "હે નાગફણી! તું કાંટાવાળું દૂધ છે, વિષધરને નજીક રાખે છે. તારા ફળ નાના અને કાંટાવાળા છે, તારા પર કોણ આશા રાખશે?"
+  },
+  {
+    "doheId": 46,
+    "hindi": "नबला! सखी-समाज मैं, लाज रही तन छाय। \n\nनाह कहन नाहीं कियो, अब तू क्यों कुम्हिलाय॥",
+    "meaning": "हे नबला! सखी-समाज में, लाज से तन छाया हुआ था। नाथ ने कुछ नहीं कहा, अब तू क्यों मुरझाई हुई है?",
+    "english": "O Naba! In the group of friends, your body was covered with modesty. The lord didn't say anything, why are you withering now?",
+    "gujarati": "હે નબલા! સખી-સમાજમાં, શરમથી તમારું શરીર છવાયેલું હતું. નાથે કંઈ કહ્યું નથી, હવે તમે કેમ મરઝાઈ રહ્યા છો?"
+  },
+  {
+    "doheId": 47,
+    "hindi": "नेह-बिनासक उर-मलिन, उज्वल उपरि अपार। \n\nसलभ! दीप तैं प्रीति करि, क्यों जरि होवत छार॥",
+    "meaning": "नेह को नष्ट करने वाला उर-मलिन, ऊपर से बहुत उज्ज्वल है। हे पतंगा! दीपक से प्रेम करके, क्यों जलकर राख हो रहा है?",
+    "english": "The heart-destroying, outwardly bright one. O moth! Why are you burning to ashes by loving the lamp?",
+    "gujarati": "નેહ નાશક હૃદય-મલિન, ઉપરથી બહુ ઉજ્જવળ છે. હે પતંગ! દીપકથી પ્રેમ કરીને, કેમ બળીને રાખ થઇ રહ્યો છે?"
+  },
+  {
+    "doheId": 48,
+    "hindi": "डारत रंग कुसुंभ नहिं, राधे हरि पै आय। \n\nगेरति है अनुराग-रँग, जो उर बढ़ि उफनाय॥",
+    "meaning": "राधा ने कुसुंभ (केसर) का रंग हरि पर नहीं डाला। वह अनुराग (प्रेम) के रंग में डूबी है, जो हृदय में बढ़कर उफनाया है।",
+    "english": "Radha did not sprinkle the saffron color on Hari. She is immersed in the color of love, which has surged in her heart.",
+    "gujarati": "રાધાએ હરી પર કુસુંબ (કેસર) નો રંગ છાંટ્યો નથી. તે પ્રેમના રંગમાં ભીંજાયેલી છે, જે હૃદયમાં ઉફાણે ચડી આવ્યો છે."
+  },
+  {
+    "doheId": 49,
+    "hindi": "नवरस-पूरित पदमिनी, तासो वृथा रिसाय। \n\nचंपक-लतिका सेइबो, क्यों तुहि भौंर सुहाय?॥",
+    "meaning": "नवरस से परिपूर्ण पद्मिनी, उससे व्यर्थ ही नाराज है। चंपक-लता से कैसे भौंरा तुम्हें अच्छा लगेगा?",
+    "english": "The lotus, filled with all nine essences, is needlessly angry with her. How can the bee like the Champak vine over you?",
+    "gujarati": "તમામ નવરસોથી ભરેલી પદ્મિની, તેનાથી વ્યર્થ જ રિસાયેલી છે. ચંપક લતા ને બદલે ભમરો તને કેમ ગમશે?"
+  },
+  {
+    "doheId": 50,
+    "hindi": "जानति हरि की बाँसुरी, उर-छेदन की पीर। \n\nफिरि तू मो उर छेदिबे, हा! क्यों होत अधीर॥",
+    "meaning": "हरि की बाँसुरी हृदय-छेदन की पीड़ा जानती है। फिर तू मेरे हृदय को छेदने के लिए, हाय! क्यों अधीर हो रही है?",
+    "english": "Hari's flute knows the pain of piercing the heart. Then why are you, O flute, becoming impatient to pierce my heart again?",
+    "gujarati": "હરિ ની બાંસુરી હૃદય ને છિદ્ર કરવાની પીડા જાણે છે. તો પછી તું, હે બાંસુરી, મારા હૃદય ને ફરીથી છિદ્ર કરવા આતુર કેમ થઇ રહી છે?"
+  },
+  {
+    "doheId": 51,
+    "hindi": "डरति लजति पति पै चली, सखी-सिखावन-लाग। \n\nजात चल्यो मृगराज पै, मंद-मंद ज्यों नाग॥",
+    "meaning": "वह डरकर और लज्जाकर पति के पास गई, सखियों ने सिखाया। वह मृगराज के पास गई, जैसे नाग मंद-मंद चल रहा है।",
+    "english": "She went to her husband, scared and shy, as her friends advised. She moved towards the lion like a snake slithering slowly.",
+    "gujarati": "તે તેના પતિ પાસે ગભરાઇને અને શરમાઇને ગઈ, તેનો પાઠ સખીઓએ શીખાવ્યો હતો. તે સિંહ તરફ ગઇ, જેમ સાપ ધીમે ધીમે સરકતો હોય છે."
+  },
+  {
+    "doheId": 52,
+    "hindi": "साथ रहत तृन-दल चरत, भूलि न चहत स्वराज। \n\nफिरि काहे इन मृगन को, तू मारत मृगराज!",
+    "meaning": "वह तृण-दलों के साथ रहती है, स्वाधीनता को कभी भूलती नहीं। फिर भी इन मृगों को क्यों मारती है, तू मृगराज!",
+    "english": "She lives with the grass blades, never forgetting freedom. Yet, why do you kill these deer, O lion?",
+    "gujarati": "તે ઘાસના કાંઠા સાથે રહે છે, સ્વતંત્રતા ક્યારેય ભૂલતી નથી. છતાં, આ હરણોને કેમ માર છે, હે સિંહ?"
+  },
+  {
+    "doheId": 53,
+    "hindi": "पंख पाय चींटी अरी! उड़ि-उड़ि क्यों इतराय। \n\nगिरिहैं पर, मिटिहै उमंग, जैहैं तुहिं खग खाय॥",
+    "meaning": "चींटी ओ मुझे अपने पंख मिले हैं! तुम इधर-उधर क्यों उड़ती रहती हो? वे अपनी उमंग को गिराते हैं, और तुम्हें खग खाते हैं।",
+    "english": "O ant, now that you have wings! Why do you fly around proudly? You will fall, lose your enthusiasm, and be eaten by birds.",
+    "gujarati": "હે માંકડ! હવે તમને પંખો મળ્યા છે! તમે શા માટે ગર્વથી ઉડતા રહો છો? તમે પડી જશો, તમારો ઉત્સાહ ગુમાવશો, અને પક્ષીઓ તમને ખાઈ જશે."
+  },
+  {
+    "doheId": 54,
+    "hindi": "बिकल होय बाला भजी, गृह मैं लखि ब्रजराज। \n\nडरिकै ज्यों करिनी भजत, बन मैं लखि बनराज॥",
+    "meaning": "बाला भजी बिकल हो गई, और घर में ब्रजराज को देखती है। वह डरती हुई जैसे करिणी भजती है, और वन में बनराज को देखती है।",
+    "english": "Bala Bhaji became restless, and sees Brajaraj at home. She is scared, like a doe worships, and sees the lion in the forest.",
+    "gujarati": "બાલા ભજી બેચેન થઈ ગઈ છે અને ઘરમાં બ્રજરાજને જોઈ રહી છે. તે ડરી ગઇ છે, જેમ હરણ વનરાજની પૂજા કરે છે અને વનમાં સિંહને જોઈ રહી છે."
+  },
+  {
+    "doheId": 55,
+    "hindi": "नाह रिझावन हौं चहौं, रति मैं कहि प्रिय बैन। \n\nपै सखि! यह कैसे बनै, तन सुधि जबै रहै न॥",
+    "meaning": "मैं नहीं रिझाती हूं, नहीं चाहती कि रति मुझे प्रिय बनाये। यह कैसे हो सकता है, सखियों, जब तक मेरा शरीर ठीक नहीं होता।",
+    "english": "I do not charm, nor do I want love to make me beloved. How can this be, friends, if my body is not well?",
+    "gujarati": "હું મોહક નથી, પ્રેમ મને પ્રિય બનાવે તેવી મારી ઇચ્છા નથી. આ કેવી રીતે શક્ય છે, સખીઓ, જ્યારે મારું શરીર સારું નથી?"
+  },
+  {
+    "doheId": 56,
+    "hindi": "मो प्यारी मुख को नहीं, तूने लख्यो चकोर! \n\nयातैं तू इक-टक लखै, चंद-कलंकी-ओर॥",
+    "meaning": "तूने मेरे प्यारे मुख को नहीं देखा, तू तो चकोर को ही देखता है! जैसे चंद्रमुखी में एक-दो कलंक होते हैं।",
+    "english": "You haven't seen my beloved face, you only look at the chakor bird! Just as there are one or two blemishes on the moon's face.",
+    "gujarati": "તમે મારા પ્રિય મુખને જોયું નથી, તમે માત્ર ચકોરને જુઓ છો! જેમ ચાંદના મુખ પર એકાદ કલંક હોય છે."
+  },
+  {
+    "doheId": 57,
+    "hindi": "लतिका विटपालंबिनी, जरत सीत मैं सोय। \n\nतुम बिन कैसे सिसिर मैं, मों बचिबो हित होय?",
+    "meaning": "विटपालंबिनी लता, जिसे सरस सीता हो गई है, मैं सोती हूं। तुम्हारे बिना मैं कैसे सिसिर के लिए हो सकती हूँ, मेरे लिए तुम बहुत हितकर हो।",
+    "english": "The vine clings to the tree, with the coolness it sleeps. Without you, how can I survive winter, you are very beneficial to me.",
+    "gujarati": "વેલ વૃક્ષને લપટાય છે, ઠંડક સાથે તે સૂઈ રહી છે. તમારા વિના, હું શિયાળામાં કેવી રીતે જીવું, તમે મારા માટે ખૂબ જ લાભદાયક છો."
+  },
+  {
+    "doheId": 58,
+    "hindi": "नैन अच्छ द्वै मच्छ सम, देत दच्छ उर चोट। \n\nइनके लच्छ प्रतच्छ तजि, चाहौं पच्छन-ओट॥",
+    "meaning": "दो नेत्रों के बराबर मछलियों के समान, ये दिल में चोट पहुँचा रहे हैं। इनके लच्छ्यों को छोड़कर, मैं पछताती हूँ, चाहकर इनकी ओर देखूँ।",
+    "english": "Eyes like two fish, they pierce the heart. Leaving their aims aside, I regret, desiring to look at them.",
+    "gujarati": "બે માછલી જેવા આંખો હૃદયને ભેદે છે. તેમના લક્ષ્યોને છોડીને, હું પસ્તાવું છું, તેમને જોવાની ઈચ્છા."
+  },
+  {
+    "doheId": 59,
+    "hindi": "ब्रज-बनिता! छलबल करौ, सफल होत ना एक। \n\nनाह-नेह-डोरी-बँधे, कित को डुलै न नेक॥",
+    "meaning": "ओ ब्रज की नारियों! छलबल करके, एक भी न सफल होता है। न नेह न डोरी बाँधो, किसी के साथ भी न विश्वास करो।",
+    "english": "O women of Braj! Deceitful tricks do not succeed. Do not tie bonds of love or strings, trust no one.",
+    "gujarati": "હે બ્રજની સ્ત્રીઓ! છેતરપિંડી સફળ થતી નથી. પ્રેમના બંધન કે દોરડા બાંધીશો નહીં, કોઈ પર ભરોસો ન કરશો."
+  },
+  {
+    "doheId": 60,
+    "hindi": "चूक भई मोतैं नहीं, संक न कछु उर धार। \n\nभौंह बंक करि मोहि क्यों, देत सुमन की मार॥",
+    "meaning": "मैंने अपने प्यार को छोड़ दिया है, मेरे दिल में कोई भी शंका नहीं है। तो मेरे क्यों दिल को बहका रहे हो, सुमन की मार देते हो।",
+    "english": "I have abandoned my love, there is no doubt in my heart. So why are you misleading my heart, striking with flowers?",
+    "gujarati": "મેં મારા પ્રેમને છોડ્યો છે, મારા હૃદયમાં કોઈ શંકા નથી. તો તમે મારા હૃદયને કેમ ગેરમાર્ગે દોરી રહ્યા છો, ફૂલોથી માર મારી રહ્યા છો?"
+  },
+  {
+    "doheId": 61,
+    "hindi": "झूलत जोर हिंडोर जब, चढ़ि अंबर-बिच जायँ। \n\nतड़ित-मुदिर-महँ मिलि रहे, लली-लाल न लखायँ॥",
+    "meaning": "जब हिंडोर जोर से झूलता है, तो अंबर के बीच चढ़ जाता है। तब तारे और मुक्ताक्षी मिलकर रहते हैं, लेकिन लाल और पीले रंग के नहीं दिखाते।",
+    "english": "When the swing swings vigorously, it rises to the sky. The stars and the sky mix, but the red and yellow colors are not visible.",
+    "gujarati": "જ્યારે ઝૂલો જોરથી ઝૂલે છે, તે આકાશ સુધી ઊંચે ચડી જાય છે. તારા અને આકાશ મિશ્રિત છે, પરંતુ લાલ અને પીળા રંગો દેખાતા નથી."
+  },
+  {
+    "doheId": 62,
+    "hindi": "कलिका जदपि गुलाब की, सरस नहीं दरसाय। \n\nतउ न सेवती सेइबो, मधुकर! उचित लखाय॥",
+    "meaning": "यद्यपि कलिका गुलाब की है, लेकिन वह अपनी सुंदरता को नहीं दिखाती। इसलिए तुम उसे नहीं सेवते हो, मधुकर! यह ठीक नहीं है।",
+    "english": "Although the bud is of a rose, it does not display its beauty. Therefore you do not serve it, O bee! This is not right.",
+    "gujarati": "જ્યારે ઝૂલો જોરથી ઝૂલે છે, તે આકાશ સુધી ઊંચે ચડી જાય છે. તારા અને આકાશ મિશ્રિત છે, પરંતુ લાલ અને પીળા રંગો દેખાતા નથી."
+  },
+  {
+    "doheId": 63,
+    "hindi": "मधुर वीन-बिच-लीन करि, मृग मारत सर साध। \n\nयों सु रसिक-जीवन-हरन, नहिं सुहात मोंहि ब्याध!",
+    "meaning": "मधुर वीणा के बीच वीणा को लेकर, मैं मृगराज को मारती हूं। इस प्रकार का रसिक जीवन उसे अच्छा नहीं लगता, यह मुझे व्याकुल करता है!",
+    "english": "Playing the sweet veena, I aim the arrow at the deer. Such a playful life does not suit me, it distresses me!",
+    "gujarati": "મીઠી વીણા વગાડતા, હું હરણ પર તીણમારો હોતું છું. આ પ્રકારનું રમૂજી જીવન મને સુસંગત નથી, તે મને બેચેન કરે છે!"
+  },
+  {
+    "doheId": 64,
+    "hindi": "चुप साधे राधे प्रिये! इमि किमि बैठी आज। \n\nसिसकति यह बोली बचन, अनुकंपा ब्रजराज॥",
+    "meaning": "ओ प्रिय राधे! चुप रहो। ऐसा क्यों बैठी हो आज? उसने सिसकते हुए यह बोला, ब्रजराज! आपकी अनुकंपा की अपेक्षा।",
+    "english": "O dear Radha! Be silent. Why are you sitting like this today? She said while sobbing, Brajaraj! Your compassion is awaited.",
+    "gujarati": "હે પ્રિય રાધે! મૌન રહો. તમે આજે આ રીતે કેમ બેઠા છો? તેણે રડતા રડતા કહ્યું, બ્રજરાજ! તમારી દયા અપેક્ષિત છે."
+  },
+  {
+    "doheId": 65,
+    "hindi": "ऐ उलूक! इन काग को, क्यों चाहत दुख दैन। \n\nतुहू न रैहै चैन मैं, बीते पै यह रैन॥",
+    "meaning": "ओ उल्लू! इन कौवों को क्यों दुःख देना चाहते हो? मुझे आराम नहीं है, गुजर रही है यह रात॥",
+    "english": "O owl! Why do you want to trouble these crows? I find no peace, this night is passing by.",
+    "gujarati": "હે ઉલૂક! આ કાગડાઓને દુઃખ કેમ આપવું છે? મને શાંતિ નથી, આ રાત પસાર થઈ રહી છે."
+  },
+  {
+    "doheId": 66,
+    "hindi": "सुमनन के गुन-दोष को, जो न करहि निरधार। \n\nतो तोको कैसे मधुप! रसिक गिनहि संसार॥  ",
+    "meaning": "जो गुण-दोष सुमनन को अपनाता है, वह निर्णय नहीं करता है। तुम कैसे मधुप हो सकते हो? संसार में रसिक लोग गिनते हैं॥",
+    "english": "He who does not assess the merits and demerits of Sumnan, how can he be a connoisseur in this world, O Madhup!",
+    "gujarati": "જે સુમનનના ગુણ-દોષને ન માપે છે તે કેવી રીતે મધુપ બની શકે છે! રસિકો આ સંસારમાં ગણી રહ્યા છે."
+  },
+  {
+    "doheId": 67,
+    "hindi": "अहो मधुप! चंपक-तजन, मन माँही पन कीन। \n\nफेरि दिठि डारत उतै, धरम न यहै कुलीन॥  ",
+    "english": "Oh Madhup! You abandoned Champak and failed to win over your beloved. Even after seeing her, you hesitate; this is not the mark of a noble person.",
+    "gujarati": "હે મધુપ! તમે ચંપાક કાઢી અને પ્રેમિકાને વિજયી ન બનાવી. તેમ પછી તેને જોઈને તમે ડરતા રહ્યા છો; આ કુલીન વ્યક્તિનો ચિહ્ન નથી.",
+    "meaning": "अहो मधुप! तू चंपक को छोड़कर, मन को अपनी प्रेमिका के पास नहीं किया। फिर भी उसे देखकर तू डरता है, और इसमें धर्म का योग्यता नहीं है॥"
+  },
+  {
+    "doheId": 68,
+    "hindi": "तपन-जरी जीवित करी, देय मधुर फल-सार। \n\nकोकिल! का विधि बिसरिहै, अंब बड़ो उपकार॥  ",
+    "english": "Having kept alive by heat and fire, giving the essence of sweet fruits. Cuckoo! How could you forget it? Amb has greatly benefitted.",
+    "gujarati": "તાપની જીવત કરવાથી મધુર ફળનો અર્થ આપતા. કોકિલ! તમે એ કેવી રીતે ભૂલ શકતા હો? અંબ વધુ સહાય કર્યું છે.",
+    "meaning": "तपन और जलने से जीवन को जीवित रखने वाले, मधुर फलों का सार देने वाले। कोकिला! तुम इसे कैसे भूल सकते हो, अंब (वृक्ष) ने बड़ा उपकार किया है॥"
+  },
+  {
+    "doheId": 69,
+    "hindi": "साँझ-समैं नियरात ज्यों, सकल कमल मुरझात। \n\nअजब सखी! तव मुख-कमल, विकसित अधिक लखात॥  ",
+    "english": "Just as one becomes disheartened in the evening, all the lotuses droop. Strange friend! Your face resembles a lotus, blossoming even more beautifully.",
+    "gujarati": "સાંજ-સમયે મારા પાસે દિલથી હારે છે, તમામ કમળ જડાયે છે. અજબ સખી! તમારો ચહેરો કમળ જેવો છે, વધુ સુંદર રૂપે ફૂલે છે.",
+    "meaning": "साँझ के समय बिल्कुल निराश होने की तरह, सभी कमल मुरझाते हैं। अजीब सखी! तुम्हारा चेहरा जैसे कमल फूलता है, और और अधिक खिलता है॥"
+  },
+  {
+    "doheId": 70,
+    "hindi": "जदुपति सब महिलान-संग, रच्यो मनोहर फाग। \n\nबरसायो इमि रंग को, इक न रही बिन राग॥  ",
+    "english": "Radha's husband composed the enchanting Holi song with all the women. He poured this color, without any malice.",
+    "gujarati": "રાધાના પતિને તે બધી સ્ત્રીઓ સાથે મનોહર હોળી ગીત રચવો. તે આ રંગ વિનામૂલ્યને પાવી છે.",
+    "meaning": "राधा के पति ने सभी महिलाओं के संग मनोहर फाग रचा। इस तरह से रंग बरसाया, जिसमें कोई भी राग नहीं था॥"
+  },
+  {
+    "doheId": 71,
+    "hindi": "यदपि कुसुम केतकि बड़ो, करत न अलि तहँ नाद। \n\nतहाँ सबै गुन गाइहैं, जहाँ मिलत रस-स्वाद॥",
+    "english": "Though the flowers of ketaki may be large, they do not produce any fragrance. All virtues are sung where there is the taste of essence.",
+    "gujarati": "જોતા કેટકીના ફૂલ મોટા હોવા છતાં પણ તેમણે કોઈ મધુર સ્વર નથી કાઢતા. જેમણે રસ-સ્વાદ મળે તેમણે બધા ગુણ ગાઇયા જાય છે.",
+    "meaning": "भले ही केतक के फूल बड़े हों, लेकिन वहाँ से कोई मधुर संगीत नहीं आता। जहाँ रस और स्वाद मिलते हैं, वहाँ सभी गुण गाए जाते हैं॥"
+  },
+  {
+    "doheId": 72,
+    "hindi": "हरि फारत गज देखि यों, जंबुक! क्यों अनखात? \n\nबिधि नै मोहि क्यों नहिं दियो, एतो बल बिच गात॥",
+    "english": "O beetle! Why are you amazed to see the elephant fleeing from the lion? Why did fate not put me in the midst where it sings amidst such power?",
+    "gujarati": "હાથીને શિંગને ભાગતા જોવાથી તમારી આશ્ચર્ય શું છે? બિધિ મારે ત્રાણી કરવું નહોતું કે તમે તે બાળમાં બસી જાઓ છો જ્યાં તે ગાય છે.",
+    "meaning": "जंबूक! हरि को फारते हुए हाथी को देखकर तुम अनखी क्यों हो? विधि ने मुझे क्यों इस बल के बीच नहीं डाल दिया, जिससे वह तुम्हारे बीच गाता है॥"
+  },
+  {
+    "doheId": 73,
+    "hindi": "हाव, भाव, तिरछे नयन, चित मेरो बस कीन। \n\nकितिक बात बसु देन की, असु जब तव आधीन॥",
+    "english": "Your image with emotions, expressions, and sideways glances has taken over my mind. I remain in your command until I am favorable to you.",
+    "gujarati": "તમારી છવિ આભાસો, ભાવનીઓ અને ઓળખાણનાં સાથે મારો મન પર હાવે છે. હું તમારા પ્રતિ આદેશ અનુસાર બની રહ્યો છું જ્યારે સાંભળે છે.",
+    "meaning": "हाव, भाव, और तिरछे नयनों वाली तुम्हारी छवि ने मेरे मन को अपने बस में कर लिया है। तब तक मैं तुम्हारी आज्ञा में हूँ, जब तक तुम्हारे अनुकूल बना रहता हूँ॥"
+  },
+  {
+    "doheId": 74,
+    "hindi": "कर-लाघव विधि नै लह्यो, रचि कै प्रथम निसेस। \n\nयातैं यह तव बिधु-बदन, बिधु तैं बन्यो बिसेस॥",
+    "english": "Method has continuously considered action, and created the first principle. Because of this, your face has become special, because you have made it special.",
+    "gujarati": "વિધિને લાગતાં ક્રિયાઓને વિચાર કર્યો છે, અને પ્રથમ નિયમ બનાવ્યો છે. તેથી તમારું ચહેરો વિશેષ થયું છે, કે તમે તેને વિશેષ બનાવ્યું છે.",
+    "meaning": "विधि ने लगातार कर्म को विचार कर, और प्रथम नियम बनाकर किया है। इसी कारण तुम्हारा चेहरा विशेष हो गया है, क्योंकि तुमने इसे विशेष बनाया है॥"
+  },
+  {
+    "doheId": 75,
+    "hindi": "नाग-लता! खेद न करौ, लखि कुसुमिति तरु कुंज। \n\nरुचिकर इन सब सुमन तैं, हीन न तव दल पुंज॥",
+    "english": "O naglata! Don't be sorry, seeing the tree of the kusumiti. These beautiful flowers make that tree attractive, and your group is not a deficiency.",
+    "gujarati": "ઓ નાગલાતા! દુઃખ કરવું નહીં, કુસુમિતિના વૃક્ષને જોવાની. આ સુંદર ફૂલો તે વૃક્ષને આકર્ષક બનાવે છે, અને તમારો સમૂહ કોઈ ઘટક નથી.",
+    "meaning": "ओ नागलता! खेद न करो, जब तुम कुसुमिति के वृक्ष को देखो। तुम्हारे इन सभी सुंदर सुमनों से वह वृक्ष रुचिकर होता है, और तुम्हारी समूह में कोई कमी नहीं है॥"
+  },
+  {
+    "doheId": 76,
+    "hindi": "सुमन-माल राखि न सकौं, अलि! सकौं न उतार। \n\nअलि रीझे हरि खीझि हैं, पग-पग होत विचार॥",
+    "english": "Hey ali! I cannot keep the beautiful flower garland, nor can I take it off. In the flicker of hari's light, my desire is placed on every foot.",
+    "gujarati": "હે અલી! હું સુંદર ફૂલ માળ નથી રાખી શકતો, નથી તો ઉતારી શકતો. હરિના પ્રકાશની પ્રહરના પ્રકાશમાં, મારી ઇચ્છા દર પગમાં રખવામાં આવી છે.",
+    "meaning": "हे अलि! मैं सुंदर सुमन-माल नहीं रख सकती, और न उतार सकती हूँ। हरि के इस दीप्ति में मेरी रीझा हो रही है, और हर पैर पर मेरा विचार हो रहा है॥"
+  },
+  {
+    "doheId": 77,
+    "hindi": "धन्य पद्मिनी जासु नित, अचल नेह रबि माहिं। \n\nजाको लखि बिकसित सखी, बिन देखे मुरझाहिं॥",
+    "english": "Blessed is Padmini, whose constant love is like the unwavering affection of the sun. \n\nSeeing her, even friends bloom; without her sight, they wither.",
+    "gujarati": "પદ્મિની ધન્ય છે, જેની નિત્ય અચલ પ્રેમ સૂર્યના સમાન છે. \n\nતેને જોઈને મિત્રો ખુશ થાય છે; તેના વિના મુરઝાય જાય છે.",
+    "meaning": "पद्मिनी बहुत धन्य हैं, जिनका नित्य अचल प्रेम सूर्य के समान है। उनको देखकर सखी भी बहुत खुश होती है, और बिना उन्हें देखे मुरझाती है॥"
+  },
+  {
+    "doheId": 78,
+    "hindi": "अंक-युक्त ससधर जबै, ताप-हरन परबीन। \n\nक्यों न करै बिधु-बदन, अंक-हीन दुख छीन॥",
+    "english": "When adorned with appropriate marks, the face becomes soothing like a balm. Why wouldn't a markless face alleviate sorrow?",
+    "gujarati": "યોગ્ય ચિન્હોથી ભૂષિત થયા વખતે, ચહેરો શિતલ બને છે જેવી ચાલમ. બિના ચિન્હોથી ચહેરો દુઃખને દૂર કેવું ન કરે?",
+    "meaning": "जब सही अंकों के साथ सजीव चेहरा होता है, तो वह ताप को हराने वाला होता है। इसलिए बिना अंकों के, विधुर चेहरा दुख को मिटा नहीं सकता॥"
+  },
+  {
+    "doheId": 79,
+    "hindi": "मधुकर! जदपि गुलाब-वन, नित तू करत विलास। \n\nफिरि-फिरि चित चाहत तऊँ, अमल कमल को बास॥",
+    "english": "Oh bee! Even though you frolic daily in the rose garden. Your heart yearns repeatedly for the fragrance of the lotus.",
+    "gujarati": "હે ભારતી! હાલ કેવા જ ગુલાબ બાગમાં રમે છે. હાલ વિરામમાં પણ તમારા હૃદયમાં કમળની સુગંધનો લાગ જરૂરી હોવું છે.",
+    "meaning": "हे मधुकर! भले ही गुलाब-वन में नित तू विलास करता है। लेकिन फिर भी तेरी इच्छा बार-बार कमल के वास को ही चाहती है॥"
+  },
+  {
+    "doheId": 80,
+    "hindi": "हे पिक! तजि या अंब कौ, भजि जाओ थल आन। \n\nयहाँ प्रान बचिहैं नहीं, मच्यो काग-घमसान॥",
+    "english": "Hey bird! Leave aside that mango, worship and go to your own ground. There is no chance to save life here, since crows and cranes have destroyed everything.",
+    "gujarati": "હે પાંખી! આવી આંબાને ત્યાગી દો, પૂજા કરો અને તમારા વિહાળે જાઓ. અહીં જીવન રક્ષણ માટે કોઈ સંભાવના નથી, કારણ કાગા અને ઘમસાને બધું નાશ કર્યું છે.",
+    "meaning": "हे पिक! उस अंब को छोड़कर, तू अपने थल में भजन कर। यहाँ प्राण बचाने की कोई संभावना नहीं है, क्योंकि कागों और घमसानों ने सब कुछ नष्ट कर दिया है॥"
+  },
+  {
+    "doheId": 81,
+    "hindi": "मेघ नये बुँदिया नई, नव तृन नये वितान। \n\nतजत नवेली नारि को, क्यों नव नाह सुजान॥",
+    "english": "New clouds bring new drops, and new grass spreads everywhere. Why not acknowledge the new bride, since you don't know her yet?",
+    "gujarati": "નવા મેઘો નવી બુંદો લાવે છે, અને નવા ઘાસ આવરે છે. તમે હજુ તેને ઓળખતા નથી, તેથી તમે નવી વધુને માન્યું ના કરો?",
+    "meaning": "नये मेघ आए हैं और नई बूँदें गिर रही हैं, नए तृण नई चारों ओर बिखेरे गए हैं। लेकिन क्यों वे नवेली नारी को छोड़ दिया, क्योंकि वे उसे नहीं जानते॥"
+  },
+  {
+    "doheId": 82,
+    "hindi": "पिय-आगम लखि कै भई, स्यामा मुदित अनंत। \n\nज्यों हुलसति है कोकिला, आवत देखि बसंत॥",
+    "english": "Seeing her beloved's arrival, she rejoiced endlessly. She delights like a cuckoo seeing the arrival of spring.",
+    "gujarati": "આપના પ્રિય ને આવા લાગ્યાં, તે અનંત પ્રસન્ન થયી છે. તે બસંત ના આગમન જોઈને હર્ષિત થયું છે જેવું કોકિલા.",
+    "meaning": "अपने प्रिय के आगमन को देखकर वह स्यामा अनंत रूप से हर्षित हो गए। वह कोकिला की तरह हर्षित हो रहे हैं, जब वे बसंत को देखते हैं॥"
+  },
+  {
+    "doheId": 83,
+    "hindi": "सकुन-गान स्रुति सूल सों, लगति सूल से फूल। \n\nमिंत बिना सुख-मूल सब, भये आज प्रतिकूल॥",
+    "english": "Through the singing of blessings and scriptures, spikes turn into flowers. Without moderation, all roots of joy have turned unfavorable today.",
+    "gujarati": "આશિર્વાદ અને શાસ્ત્રોના ગાયનથી, ધાંધાં ફુલો થાકાં મા બદલાય છે. નિયમિત બિના, આજે સર્વ આનંદના મૂલો વિપરીત થયા છે.",
+    "meaning": "सकुन और गान की स्तुति से सूल से फूल होते हैं, लेकिन मिंता बिना सब सुख की जड़ हो जाती है, आज के दिन विपरीत हो गई है॥"
+  },
+  {
+    "doheId": 84,
+    "hindi": "बनिता बहु बसु-आस धरि, पहुँची आलय जाय। \n\nबिस्व-विदिति बसुपति बिना, नलिनी ज्यों मुरझाय॥",
+    "english": "Many daughters adopted the hope of settling down and reached their homes. Without universal knowledge, they withered like a lotus without its lord.",
+    "gujarati": "ઘરવડે આશામાં બહુ કન્યાઓ રાખવી લઈ છે અને તેમના ઘર પહોંચી છે.વિશ્વવિદિત બસુપતિ વિના, તેમ નળિની જેવી મુરઝાય.",
+    "meaning": "बहुत सी बनिताओं ने बसे-आशा को अपनाया और आलय को पहुँचा दिया। बिस्व-विदिति बसुपति के बिना, वे नलिनी के समान मुरझा गई हैं॥"
+  },
+  {
+    "doheId": 85,
+    "hindi": "रह्यो मुदित जो पिक सदा, अंब-प्रजरी खाय। \n\nभूलि निबौरी चखन कौ, सो अब क्यों ललचाय॥",
+    "english": "The bird that always remains joyful, enjoys the mango blossom. Forgetting to taste the neem blossom, why should it now covet it?",
+    "gujarati": "જે પક્ષી હંમેશા આનંદમાં રહે છે, આંબા નો આનંદ લે છે. નીંબ નો આનંદ ચાખના ભૂલાઇ ગયો હોય, તે હવે તેને કામના કરે છે?",
+    "meaning": "जो पिक सदा मुदित रहती हैं, और अंब-प्रजरी का आनंद लेती हैं। उसने निबौरी का चखना भूल दिया है, तो अब क्यों उसमें ललचाहट करे॥"
+  },
+  {
+    "doheId": 86,
+    "hindi": "होय अपत सब बिधि निपट, रच्छक-दलन दुराय। \n\nफिरि किंसुक! यों फूलिबो, मोहिं न तनिक सुहाय॥",
+    "english": "All obstacles have been overcome, and the army of protectors has dispersed. Yet, Kinsuk, bloom like this, I can't help a little.",
+    "gujarati": "બધી વિઘ્નો પર પૂર્ણ પાડવામાં આવ્યા છે, અને રક્ષકોનો દળ વિચારવું છે. પરંતુ, કિન્સુક, આ રીતે ફૂલાવો, હું થોડા મદદ કરી શકતો નથી.",
+    "meaning": "सभी बाधाओं का अंत हो गया है, और रक्षकों का दल दूर हो गया है। फिर भी किंसुक! तुम इस प्रकार खिला करो, मुझे थोड़ा भी सहायता नहीं कर सकते॥"
+  },
+  {
+    "doheId": 87,
+    "hindi": "चलि रुकि तिय पिय को लखति, उरझी मनमथ-लाज। \n\nकरनी मनु लंगर-बँधी, निरखि रही गजराज॥",
+    "english": "She went, stopped and saw, the heart was ashamed of Manmath. Man has tied the kitchen, and Gajraj is still watching.",
+    "gujarati": "તે ગઈ, થઈ અને જોયું, હ્રદય મનમથની લાજ થઇ ગઈ. મનુષ્યો ને બાંધ્યો છે, અને ગજરાજ હજી પણ જોવું છે.",
+    "meaning": "पिय को तिय चलते और रुकते हुए देखकर, मनमथ की लाज को उरझती है। मनुष्य की यह क्रिया लंगर के लिए बांध दी गई है, और वह गजराज को देख रही है॥"
+  },
+  {
+    "doheId": 88,
+    "hindi": "कहा कहौं कहत न बनै, नहीं कहन के जोग। \n\nसो जानत मो उर बिथा, जा नै सह्यो वियोग॥",
+    "english": "I say, I do not say, there is no way to say. So I know my heart is fixed, I have to live apart.",
+    "gujarati": "હું કહું છું, હું નહીં કહું, કહવાની કોઈ વ્યવસ્થા નથી. તેથી હું જાણું છું કે મારો હૃદય સ્થિર થઇ ગયો છે, હું બિચડવા જીવું છું.",
+    "meaning": "जहाँ तक हो सके बिना कह रही हूँ, लेकिन वह कहने के योग्य नहीं हो सकता। मैं यह जानती हूँ कि मेरा मन वियोग को सह रहा है॥"
+  },
+  {
+    "doheId": 89,
+    "hindi": "ब्याहत ही राधे अजब, कला-कुसलता लीन। \n\nया ते वा चितचोर को, चित चोर्यो परबीन॥",
+    "english": "The marriage of Radhe is strange, it is involved in art. Either she is a thief, the picture has been stolen.",
+    "gujarati": "રાધાની લગ્ન વિચિત્ર છે, તે કલામાં લીન છે. તે કોઈ ચોર છે, ચિત્ર ચોર્યું છે.",
+    "meaning": "राधा की विवाह अजीब है, कला-कुशलता में लीन है। या तो वह चितचोरी को लेकर हैं, या फिर चित ने उसे चोर दिया है॥"
+  },
+  {
+    "doheId": 90,
+    "hindi": "केलि-भवन को गवन किय, मिले धवन वहि धाम। \n\nपवन लगे तिय दवन जिमि, हवन भयो सुख काम॥",
+    "english": "He built the banana house, and got the ram there. As the air blows like a dart, the work is successful.",
+    "gujarati": "તે કેલિયો મકાન બનાવ્યો, અને તેમાં મકાન મેળવ્યો. વાયુ એવું ફાંકે તેમ કાર્ય સફળ થાય છે.",
+    "meaning": "केलियों को भवन बना कर, उसने धवन में आपको प्राप्त किया। वहाँ हवा चलने लगी जैसे तीर चल रहे हों, और सुख भरी कामना हो गई है॥"
+  },
+  {
+    "doheId": 91,
+    "hindi": "जग बिच तरुवर अधिकतर, फूलि प्रथम फल देत। \n\nगूलर! तव गौरव यहै, बिन फूले फल देत॥",
+    "english": "In most places in the world, trees first bear fruit before flowering. \n\nOh Gular! Your glory is that you bear fruit even without flowering.",
+    "gujarati": "વિશ્વમાં અધિકાંશ સ્થળોમાં વૃક્ષો પ્રથમ ફૂલાવે છે પહેલા પરંતુ ફળ આપે છે. \n\nહે ગૂલર! તમારું ગૌરવ આ છે કે તમે ફૂલાવવાં વિનાં પણ ફળ આપો છો.",
+    "meaning": "अधिकांश जगह में वृक्षों में अधिकांश फल पहले फूल देते हैं। \n\nगूलर! तुम्हारा गर्व यह है कि बिना फूलों के भी फल देते हो।"
+  },
+  {
+    "doheId": 92,
+    "hindi": "यदि बिधि तूठै उरग पै, दै वाको पय-पान। \n\nपै किमि वाके बदन को, करै सुधा की खान॥",
+    "english": "If fate were to become a serpent, it would still allow many to drink water. \n\nWhatever its body may be like, it would become capable of drinking nectar.",
+    "gujarati": "જો ભાગ્ય સર્પ બની જાય, તો તે હજી પણ ઘણાંને પાણી પીવાનું દેશે. \n\nઆપની શરીરવાળી જે પણ હોય, તે અમૃત પીવવાની સમર્થતા બની જશે.",
+    "meaning": "अगर भगवान भी सर्प बन जाए, तो वह बहुतों को पानी पीने देगा। \n\nउसका शरीर कैसा हो भी, वह अमृत का रस पीने की तरह बन जाएगा।"
+  },
+  {
+    "doheId": 93,
+    "hindi": "निसि मैं जिमि कमल न लसत, कुमुद न दिवस-उदोत। \n\nतिमि तव मुख यह मान तैं, सोभित नेकु न होत॥",
+    "english": "Like lotuses do not shine at night, and water lilies do not bloom in daylight. \n\nSeeing your face, I believe that it is not adorned.",
+    "gujarati": "રાત્રિ માં હું કમળ જેવો ન હોય, અને દિવસ માં કુમુદ ફૂલ જેવું ન હોય. \n\nતમારો ચહેરો જોઈને, હું માનું છું કે તે શોભાયમાન નથી.",
+    "meaning": "रात्रि में मैं कमल की तरह नहीं खिलता, दिन के उजाले में कुमुद फूल नहीं होते। \n\nतुम्हारे चेहरे को देखकर यह मानता हूँ कि वह सुंदर नहीं होती है।"
+  },
+  {
+    "doheId": 94,
+    "hindi": "रतन-खान निज दान मैं, याचक को बिसर्यो न। \n\nयदपि खार सागर तऊ, तव ढिंग आवै क्यों न॥",
+    "english": "I consider my charity to be like jewels and never forget the beggar. \n\nEven though there may be salt in the ocean, why does your help not come?",
+    "gujarati": "હું મારી દાનપત્રતાને રત્નો માનું છું અને માંગતાને ક્યારેય ભૂલતો નથી. \n\nહવે પણ સમુદ્રમાં ખારો હોવાથી, તમારી મદદ ક્યારે આવતી નથી?",
+    "meaning": "मैं अपने दान को रत्न समझता हूँ, मुझसे मांगने वाले को कभी भूला नहीं। \n\nयद्यपि समुद्र में खारे भी हों, तुम्हारी सहायता आती क्यों नहीं।"
+  },
+  {
+    "doheId": 95,
+    "hindi": "नहीं सुमन नहिं रुचिर फल, काठहुँ निपट निकाम। \n\nसरन देत पर श्रमित को, याही ते बर नाम॥",
+    "english": "There are no flowers, nor are there tasty fruits; the gifts of trees are futile. \n\nIt is achieved through dedicated penance, this is its true name.",
+    "gujarati": "ફૂલો નથી, ન હિંમતના ફળો છે; વૃક્ષોની ભેટ વ્યર્થ છે. \n\nસમર્પિત તપસ્યાથી તે પ્રાપ્ત થાય છે, આ તેનું સત્ય નામ છે.",
+    "meaning": "फूल नहीं हैं, ना ही सुंदर फल, वृक्षों का उपहार व्यर्थ है। \n\nसमर्पित तपस्या द्वारा वह प्राप्त होता है, यही उसका सच्चा नाम है।"
+  },
+  {
+    "doheId": 96,
+    "hindi": "नाह-दोष सुनि मान तैं, मन को कर्यो कठोर। \n\nचंद्रकांत सो होत पै, वा मुखचंद्र निहोर॥",
+    "english": "You accepted my faults, making my mind harsh. \n\nIt becomes like the moon, or turns into a face moon.",
+    "gujarati": "તમે મારા દોષો સ્વીકાર્યા, મારો મન કઠોર બનાવ્યો. \n\nતે ચંદ્રકાંત જેવો બની જાય છે, અથવા ચહેરાને ચંદ્રના રૂપમાં ફેરાવ્યો છે.",
+    "meaning": "तुमने मेरे दोषों को सुनकर मान लिया है, मैंने अपने मन को कठोर बना लिया है। \n\nचंद्रमा की तरह वह सुंदर हो जाता है, या फिर मुखचंद्र बन जाता है।"
+  },
+  {
+    "doheId": 97,
+    "hindi": "सधन धनी को आगमन, लखि तिय करति उछाह। \n\nहोति मयूरी मुदित जिमि, पेखि सजल जल-बाह॥",
+    "english": "Seeing the arrival of a wealthy person, the butterfly flutters with joy. \n\nIt becomes happy like a peacock, seeing clear water.",
+    "gujarati": "ધનવાન વ્યક્તિનું આગમન જોઈ, તિતલી આનંદથી ઉડાવવા લાગે છે. \n\nતે વેચવાનું પેકોક જેવું હર્ષાત્મક બની જાય છે, સ્પષ્ટ પાણી જોવાથી.",
+    "meaning": "धनी व्यक्ति के आने पर, तितली खुशी से उछलती है। \n\nवह मयूर की तरह खुश हो जाती है, जैसे कि साफ़ जल में देखकर।"
+  },
+  {
+    "doheId": 98,
+    "hindi": "नखछत लौं रति चिन्ह को, पी के तन लखि प्रात। \n\nनैनन टपकत नीर है, मुख तैं कढ़त न बात॥",
+    "english": "The art of adorning is a sign of love, seen in the morning by drinking its body. \n\nTears drip from the eyes, but your mouth does not speak.",
+    "gujarati": "સજાવટનો કલા પ્રેમનો ચિન્હ છે, તેના શરીરને પીવાનું સવાર્ણો પ્રાત. \n\nઆંસુઓ આંખોમાં સૂર્યપ્રભાત વચ્ચે નીચે ટપકતા છે, પરંતુ તમારા મૂંહ મુકાવવામાં સક્ષમ નથી.",
+    "meaning": "नखरे की रचना में प्रेम का चिह्न है, सुबह को उसके शरीर को देखकर। \n\nआँखों से आंसू टपकते हैं, लेकिन तुम्हारा मुँह बोलता नहीं है।"
+  },
+  {
+    "doheId": 99,
+    "hindi": "छार करत उर अति बिरह, तन जारत रवि-ज्वाल। \n\nतरुनि दहन किमि सहि सकै, ग्रीषम उभय-कराल॥",
+    "english": "Longing causes great separation in my heart, and my body burns with the heat of the sun. \n\nHow can a tree withstand burning, this summer is cruel to both.",
+    "gujarati": "મારા હૃદયમાં મહાન વિભાગ પેદા કરે છે, અને મારી દેહ સૂર્યના તાપ દ્વારા જળે છે. \n\nએક વૃક્ષ કેવી રીતે દહન સામે સાહે, આ ગ્રીષ્મકાલ બે માટે કોરાલ છે.",
+    "meaning": "बहुत विरह के कारण मेरे हृदय को छारता है, मेरे शरीर को सूर्य की तेजी ने जला दिया है। \n\nएक पेड़ जलने की तरह कैसे सह सकता है, यह गर्मी दोनों के लिए विकट है।"
+  },
+  {
+    "doheId": 100,
+    "hindi": "तू जग अति दानी जलद! बरसत सम सब ठाम। \n\nजो विवेक धरिहै कछुक, बढ़िहै जस अभिराम॥",
+    "english": "You are very generous, O rain! It rains evenly everywhere. \n\nThe one who holds wisdom is like a tortoise, it grows like a beautiful sun.",
+    "gujarati": "તમે ખૂબ દાની છો, ઓ વરસાદ! તેમણે દરેક જગ્યા વરસાદ આવે છે. \n\nજે વ્યક્તિ વિવેક ધરે છે, તે એક કચુવાવાળ જેવો છે, તે સુંદર સૂર્યના રૂપમાં વધે છે.",
+    "meaning": "हे वर्षा! तुम बहुत उदार हो! यहां हर जगह बरसात होती है। \n\nजो व्यक्ति विवेकी होता है, वह कछुवा की तरह होता है, वह सुंदर सूर्य की तरह बढ़ता है।"
+  },
+  {
+    "doheId": 101,
+    "hindi": "माली! नित सींचत कहा, सेवत बृच्छ बबूर? \n\nसेवा-फल तू पायहै, कंटक ही भरपूर॥",
+    "english": "Gardener! Constantly watering, why do you serve the tree? \n\nYou will get the fruit of service, there are plenty of thorns.",
+    "gujarati": "બાગાની! લાગતા રહેવું, તમે વૃક્ષ કેટલાક સેવા કરો? \n\nતમે સેવાનો ફળ મળશે, ખાર ખૂબ છે.",
+    "meaning": "माली! लगातार पानी देने से वृक्ष की सेवा क्यों करते हो? \n\nतुम्हें सेवा के फल मिलेंगे, खार कांटे बहुत हैं।"
+  },
+  {
+    "doheId": 102,
+    "hindi": "कहा मधुप! डोलत फिरत, इन कलियन महँ भूल। \n\nजो इच्छा मकरंद की, सेवहु बिकसित फूल॥",
+    "english": "The bee said! Wandering, forget these buds. \n\nThe desire for nectar that is attracted, nourish the blooming flower.",
+    "gujarati": "વાંસ કહ્યુ! ચરતા, આ કલિઓ ભૂલો. \n\nઆ માંસ આકર્ષિત હોવું ઇચ્છા, ખેડવાનો ફૂલ ઉચ્ચારો.",
+    "meaning": "मधुमक्खी ने कहा! भटकते हुए, इन कलियों को भूल जाओ। \n\nजो इच्छाओं की ओर मकरंद की, वहाँ फूल को विकसित करो।"
+  },
+  {
+    "doheId": 103,
+    "hindi": "तपन-तपित अतिपय व्यथित, काट्यो दिवस कराल। \n\nदोषाकर तेहिं पर उयो, बिरहिन कौन हवाल?॥",
+    "english": "A great deal of pain due to excessive burning, suffered a fierce day. \n\nHe gave his hand to the guilty, without whom would you entrust.",
+    "gujarati": "ઘણી વિસ્તૃત અત્યંત વ્યાથા બહાર બેજા જેવી દિવસભર આપવું પડ્યું છે. \n\nતે અપરાધી આવે પાછા, બિના જેને તમે કહો છો.",
+    "meaning": "बहुत अधिक ज्वलन की अत्यंत व्यथा से दिनों को कटा है। \n\nउस दोषी को उसकी दोष अवगति द्वारा हाथ में दिया, बिना जिसके तुम भरोसा करते हो।"
+  },
+  {
+    "doheId": 104,
+    "hindi": "तिया-रूप-दृढ़-जाल गहि, सरस बचन-मय-बीन। \n\nनिसि तव छबि-हरिनी हनी, मनमथ-बधिक प्रबीन॥",
+    "english": "Like a bird caught in a strong net, filled with sweet words. \n\nYour image has enchanted even the doe, more skilled than Cupid.",
+    "gujarati": "તીયા-રૂપ-દૃઢ-જાળ પાછો, સરસ વચન-પૂર્ણ-બીન. \n\nતમારી છવિ જોવાથી હરણી પણ મનમોહક બની ગઈ છે, તે કામદેવથી વધુ પ્રવીણ છે.",
+    "meaning": "तियों की तरह मजबूत जाल में फंसे हुए, सुंदर वचन से भरपूर। \n\nतुम्हारी छवि देखकर हरिणी को भी मनमोहक बनाया गया है, वे कामदेव से अधिक प्रवीण हैं।"
+  }
+]
