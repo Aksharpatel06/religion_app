@@ -1,6 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'package:religion_app/view/screen/dohe/dohe_screen.dart';
 
+import '../../helper/api_sarvice.dart';
 import 'componects/author_details.dart';
 import 'componects/settings.dart';
 
@@ -9,12 +12,11 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final height = MediaQuery
-        .sizeOf(context)
-        .height;
-    final weight = MediaQuery
-        .sizeOf(context)
-        .height;
+    ApiSarvice apiSarvice = Provider.of<ApiSarvice>(context);
+    ApiSarvice apiSarvicefalse = Provider.of<ApiSarvice>(context,listen: false);
+
+    final height = MediaQuery.sizeOf(context).height;
+    final weight = MediaQuery.sizeOf(context).height;
 
     return Scaffold(
       drawer: Drawer(
@@ -65,7 +67,11 @@ class HomeScreen extends StatelessWidget {
           children: [
             CupertinoButton(
               onPressed: () {
-                Navigator.pushNamed(context,'/dohe');
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) =>  DoheScreen(apiSarvice: apiSarvice,apiSarvicefalse: apiSarvicefalse,),
+                    ));
               },
               padding: EdgeInsets.zero,
               child: Container(
@@ -83,7 +89,7 @@ class HomeScreen extends StatelessWidget {
                       )
                     ]),
                 alignment: Alignment.center,
-                child: Text(
+                child: const Text(
                   'दोहे',
                   style: TextStyle(
                     fontSize: 25,

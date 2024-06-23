@@ -27,11 +27,7 @@ class MyApp extends StatelessWidget {
           ? ThemeData.dark()
           : ThemeData.light(),
       debugShowCheckedModeBanner: false,
-      routes: {
-        '/':(context)=>HomeScreen(),
-        '/dohe':(context)=>DoheScreen(),
-        '/doheMeaning':(context)=>DoheMeaningScreen(),
-      },
+      home: const HomeScreen(),
     );
   }
 }
