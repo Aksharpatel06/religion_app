@@ -99,12 +99,15 @@ class DoheMeaningScreen extends StatelessWidget {
                     ),
                   ),
                   Expanded(
-                      child: Text(
-                    "${apiSarvice.language[index]}",
-                    style: TextStyle(color: Colors.black, fontSize: 20),
-                    maxLines: 3,
-                    textAlign: TextAlign.center,
-                  )),
+                      child: Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: Text(
+                                            "${apiSarvice.language[index]}",
+                                            style: TextStyle(color: Colors.black, fontSize: 20),
+                                            maxLines: 3,
+                                            textAlign: TextAlign.center,
+                                          ),
+                      )),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
                     children: [
