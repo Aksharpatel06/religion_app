@@ -39,15 +39,15 @@ class DoheMeaningScreen extends StatelessWidget {
             },
             itemBuilder: (context) {
               return [
-                PopupMenuItem(
+                const PopupMenuItem(
                   value: 'meaning',
                   child: Text('Hindi'),
                 ),
-                PopupMenuItem(
+                const PopupMenuItem(
                   value: 'gujarati',
                   child: Text('Gujarati'),
                 ),
-                PopupMenuItem(
+                const PopupMenuItem(
                   value: 'english',
                   child: Text('English'),
                 ),
@@ -65,14 +65,14 @@ class DoheMeaningScreen extends StatelessWidget {
               width: double.infinity,
               decoration: BoxDecoration(
                 border: Border.all(color: Colors.deepOrange),
-                boxShadow: [BoxShadow(color: Colors.orange, blurRadius: 15)],
+                boxShadow: [const BoxShadow(color: Colors.orange, blurRadius: 15)],
                 borderRadius: BorderRadius.circular(20),
                 color: Colors.white,
               ),
               child: Column(
                 children: [
-                  Padding(
-                    padding: const EdgeInsets.all(8.0),
+                  const Padding(
+                    padding: EdgeInsets.all(8.0),
                     child: Text(
                       'मोहन के दोहे',
                       style: TextStyle(
@@ -83,13 +83,13 @@ class DoheMeaningScreen extends StatelessWidget {
                   ),
                   Expanded(
                       child: Text(
-                    apiSarvice.modalList[index].hindi,
-                    style: TextStyle(color: Colors.black, fontSize: 20),
-                    maxLines: 3,
-                    textAlign: TextAlign.center,
-                  )),
-                  Padding(
-                    padding: const EdgeInsets.all(8.0),
+                        apiSarvice.modalList[index].hindi,
+                        style: const TextStyle(color: Colors.black, fontSize: 20),
+                        maxLines: 3,
+                        textAlign: TextAlign.center,
+                      )),
+                  const Padding(
+                    padding: EdgeInsets.all(8.0),
                     child: Text(
                       'अर्थ',
                       style: TextStyle(
@@ -102,11 +102,11 @@ class DoheMeaningScreen extends StatelessWidget {
                       child: Padding(
                         padding: const EdgeInsets.all(8.0),
                         child: Text(
-                                            "${apiSarvice.language[index]}",
-                                            style: TextStyle(color: Colors.black, fontSize: 20),
-                                            maxLines: 3,
-                                            textAlign: TextAlign.center,
-                                          ),
+                          "${apiSarvice.language[index]}",
+                          style: const TextStyle(color: Colors.black, fontSize: 20),
+                          maxLines: 3,
+                          textAlign: TextAlign.center,
+                        ),
                       )),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
@@ -119,7 +119,7 @@ class DoheMeaningScreen extends StatelessWidget {
                         child: Container(
                           height: 50,
                           width: 50,
-                          decoration: BoxDecoration(
+                          decoration: const BoxDecoration(
                             image: DecorationImage(
                               image: AssetImage('assets/image/whatsapp.png'),
                               fit: BoxFit.cover,
@@ -127,19 +127,19 @@ class DoheMeaningScreen extends StatelessWidget {
                           ),
                         ),
                       ),
-                      Padding(
-                        padding: const EdgeInsets.all(8.0),
+                      const Padding(
+                        padding: EdgeInsets.all(8.0),
                         child: Icon(Icons.favorite_border),
                       ),
                       InkWell(
                         onTap: () {},
-                        child: Padding(
-                          padding: const EdgeInsets.all(8.0),
+                        child: const Padding(
+                          padding: EdgeInsets.all(8.0),
                           child: Icon(Icons.share),
                         ),
                       ),
-                      Padding(
-                        padding: const EdgeInsets.all(8.0),
+                      const Padding(
+                        padding: EdgeInsets.all(8.0),
                         child: Icon(Icons.messenger_outline),
                       ),
                     ],
