@@ -6,7 +6,8 @@ import 'package:religion_app/view/modal/dohe_modal.dart';
 class ApiSarvice extends ChangeNotifier {
   List<DoheModal> modalList = [];
   List<String> language = [];
-  String name = "hindi";
+  List<DoheModal> favoriteDohe=[];
+  String name = "meaning";
 
   ApiSarvice() {
     getData();
@@ -19,14 +20,15 @@ class ApiSarvice extends ChangeNotifier {
     notifyListeners();
   }
 
-  void changeLanguage({String? name}) {
-    if(name=='meaning')
+  void changeLanguage({required String name}) {
+    this.name = name;
+    if(this.name=='meaning')
     {
       language.clear();
       modalList.forEach((doheModal) {
         language.add(doheModal.meaning);
       });
-    } else if(name=='gujarati')
+    } else if(this.name=='gujarati')
     {
       language.clear();
       modalList.forEach((doheModal) {
@@ -44,6 +46,18 @@ class ApiSarvice extends ChangeNotifier {
 
   void changeName(String newName) {
     name = newName;
+    notifyListeners();
+  }
+
+  void favoriteDhohe(int index)
+  {
+    modalList[index].islike =!modalList[index].islike;
+    if(modalList[index].islike)
+      {
+        favoriteDohe.add(modalList[index]);
+      }else{
+      favoriteDohe.remove(modalList[index]);
+    }
     notifyListeners();
   }
 }

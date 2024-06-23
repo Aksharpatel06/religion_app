@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../../../provider/theme_provider.dart';
+import '../../../controller/theme_provider.dart';
 
 Column settings(double height, BuildContext context) {
   return Column(
     crossAxisAlignment: CrossAxisAlignment.start,
     children: [
-      Divider(),
+      const Divider(),
       SizedBox(
         height: height * 0.015,
       ),
-      Text('Settings :',style: TextStyle(
+      const Text('Settings :',style: TextStyle(
           fontWeight: FontWeight.bold,
           fontSize: 22
       ),),
@@ -26,10 +26,10 @@ Column settings(double height, BuildContext context) {
               Icon(!Provider.of<ThemeProvider>(context).isThemeDark
                   ? Icons.sunny
                   : Icons.dark_mode),
-              SizedBox(
+              const SizedBox(
                 width: 15,
               ),
-              Text(
+              const Text(
                 'Theme :',
                 style: TextStyle(fontSize: 21),
               ),
@@ -47,7 +47,7 @@ Column settings(double height, BuildContext context) {
       SizedBox(
         height: height * 0.02,
       ),
-      Row(
+      const Row(
         children: [
           Icon(Icons.info),
           SizedBox(

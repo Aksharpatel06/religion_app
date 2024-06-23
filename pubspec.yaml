@@ -38,6 +38,8 @@ dependencies:
   provider: ^6.1.2
   url_launcher: ^6.3.0
   share_extend: ^2.0.0
+  image_gallery_saver: any
+  path_provider: any
 
 
 dev_dependencies:
@@ -69,6 +71,9 @@ flutter:
   assets:
     - asset/json/
     - asset/img/person/
+    - asset/img/bgImage/light/
+    - asset/img/bgImage/dark/
+    - asset/img/splash/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
