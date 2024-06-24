@@ -101,4 +101,5 @@ For any questions or feedback, please reach out to [your-email@example.com].
 
 ### Video
 
-https://github.com/Aksharpatel06/religion_app/assets/143181114/41d6de02-e008-4f5c-926d-fcba8c941406
+
+
