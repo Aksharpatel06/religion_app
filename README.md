@@ -82,19 +82,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, please reach out to [your-email@example.com].
 
 
+
+
 # religion_app
 
 ### ScreenShort [Source Code](https://github.com/Aksharpatel06/religion_app/tree/master/lib)
 
 <p align='center'>
-  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/c9a98832-d7a5-4077-aa50-25b356973856' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/711eb532-cdd8-4053-9ab7-924318bf41e3' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/fb4be1db-ad94-41b3-8f16-1c85a5f41cdd' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/04cdf9de-3af7-4c45-be63-a0fe1121f7e6' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/f239605f-72a7-4c31-a5a4-3daa382590a4' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/71d8f146-fd90-4588-a52f-f1fd0c7dd479' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/6beecb14-2b7f-4a2e-9a39-33affbb5f653' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/671d0357-3297-42c3-8fc9-d2d29ddd7f78' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/18466145-dfa1-4a07-a3de-df7bcdc14d0b' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/b2689e1e-1051-4ee3-ac88-3bee5594706b' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/5490cc58-5ff1-4c59-8458-1858f8861da9' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/09bcf29f-4cf7-4f58-be2f-ce7624f2e7e2' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/c8f7e166-2351-4111-afa4-f37206f3f49f' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/a486d7c2-5367-4b72-85ff-0dd8885c79d4' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/1cd840a8-ad5c-4402-a108-31a3218796ac' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src='https://github.com/Aksharpatel06/religion_app/assets/143181114/c0d6d3cc-c45f-4969-bb94-e61096b3f323' width=240> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Video
